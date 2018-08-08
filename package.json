@@ -1,0 +1,25 @@
+{
+  "name": "stellarlumenalexa-app",
+  "version": "1.0.0",
+  "description": "An skill for the Amazon Alexa to view your Stellar transactions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "StellarLumenAlexa-APP"
+  },
+  "keywords": [
+    "Stellar",
+    "Alexa",
+    "Lumens",
+    "XLM"
+  ],
+  "author": "Timothy Allard (MITDRALLA)",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-skill-kit": "^1.0.0",
+    "stellar-sdk": "^0.8.0"
+  }
+}
